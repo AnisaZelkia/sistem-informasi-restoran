@@ -1,0 +1,52 @@
+.carousel-item{
+	height:670px;
+	text-align: center;
+	margin-top: -120px;
+}
+.carousel-item .display-4
+{
+	margin-top: 100px;
+	color :black;
+}
+.carousel-item hr
+{
+	border-color: #f05f40;
+	width:70px;
+	height: 3px;
+}
+.carousel-item img
+{
+	margin-bottom: -120px;
+}
+.carousel-item .btn
+{
+	background-color: #f05f40;
+	border: none;
+	border-radius: 24px;
+	padding-right: 24px;
+	padding-left: 24px;
+	margin-top: 38px;
+}
+.navbar-brand img
+{
+	border-radius: 30px;
+	margin-right: 3px;
+}
+.footer {
+	background: #e3f2fd;
+	margin-top: -116px;;
+	margin-top: 5px;
+}
+.footer h6{
+	text-align: center;
+	margin-top: 14px;
+}
+
+.footer hr {
+	border: 1px solid #1e90ff ;
+}
+
+.footer img {
+	width: 15px;
+	height: 15px;
+}

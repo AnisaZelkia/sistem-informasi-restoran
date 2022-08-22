@@ -1,0 +1,49 @@
+body{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	background: url(a22.jpg);
+	background-size: cover;
+	background-position: center;
+	font-family: sans-serif;
+}
+.contact{
+	margin-top: 100px;
+	color:#fff;
+	text-transform: uppercase;
+	transition: all 4% ease-in-out;
+}
+.contact  h1{
+font-size: 32px;
+line-height: 10px;
+}
+.contact h2{
+	font-size: 16px;
+}
+form{
+	margin-top: 50px;
+	transition: all 4% ease-in-out;
+}
+.c1{
+	width: 380px;
+	background: transparent;
+	border:none;
+	outline: none;
+	border-bottom: 1px solid white;
+	color:#fff;
+	font-size: 18px;
+	margin-bottom: 16px;
+}
+form .submit{
+	background: #cd853f;
+	border-color: transparent;L
+	font-size: 20px;
+	color: white;
+	letter-spacing: 2px;
+	height: 50px;
+	margin-top: 20PX;
+}
+form .submit:hover{
+	cursor: pointer;
+
+}

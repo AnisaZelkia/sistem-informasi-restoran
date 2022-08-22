@@ -1,0 +1,37 @@
+body {
+	background-size: 50%;
+}
+
+
+.navbar button{
+	background-color: #1e90ff;
+	color: #fff;
+	border-width: 0;
+}
+
+
+.navbar button:hover{
+	background-color: #fff;
+	color: #1e90ff;
+	border-width: 0;
+}
+
+.carousel-item img{
+	border-radius: 1%;
+}
+
+.footer {
+	background: #e3f2fd;
+}
+.footer h6{
+	text-align: center;
+}
+
+.footer hr {
+	border: 1px solid #1e90ff ;
+}
+
+.footer img {
+	width: 15px;
+	height: 15px;
+}
